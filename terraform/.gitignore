@@ -1,0 +1,3 @@
+.terraform
+run_config.tf
+.terraform.lock.hcl
